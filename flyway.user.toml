@@ -1,0 +1,3 @@
+[environments.targetdb]
+user = "sa"
+password = "${localSecret.Flyway Desktop 5f6efada-6582-4cd1-8ca6-d1a889801809}"
